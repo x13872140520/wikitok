@@ -1,0 +1,15 @@
+{
+  "readMore": "위키백과에서 더 보기",
+  "loading": "로딩 중...",
+  "linkCopied": "클립보드에 링크가 복사되었습니다!",
+  "languages": {
+    "en": "English",
+    "zh": "中文",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español"
+  },
+  "changeLanguage": "언어 변경"
+}

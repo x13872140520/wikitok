@@ -1,0 +1,15 @@
+{
+  "readMore": "Read more on Wikipedia",
+  "loading": "Loading...",
+  "linkCopied": "Link copied to clipboard!",
+  "languages": {
+    "en": "English",
+    "zh": "中文",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español"
+  },
+  "changeLanguage": "Change Language"
+}

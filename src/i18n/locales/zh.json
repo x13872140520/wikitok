@@ -1,0 +1,15 @@
+{
+  "readMore": "在维基百科上阅读更多",
+  "loading": "加载中...",
+  "linkCopied": "链接已复制到剪贴板！",
+  "languages": {
+    "en": "English",
+    "zh": "中文",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español"
+  },
+  "changeLanguage": "切换语言"
+}

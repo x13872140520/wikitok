@@ -1,0 +1,15 @@
+{
+  "readMore": "ウィキペディアでもっと読む",
+  "loading": "読み込み中...",
+  "linkCopied": "リンクがクリップボードにコピーされました！",
+  "languages": {
+    "en": "English",
+    "zh": "中文",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español"
+  },
+  "changeLanguage": "言語を変更"
+}

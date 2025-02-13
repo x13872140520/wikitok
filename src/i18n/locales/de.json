@@ -1,0 +1,15 @@
+{
+  "readMore": "Weiterlesen auf Wikipedia",
+  "loading": "Wird geladen...",
+  "linkCopied": "Link in die Zwischenablage kopiert!",
+  "languages": {
+    "en": "English",
+    "zh": "中文",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español"
+  },
+  "changeLanguage": "Sprache ändern"
+}
